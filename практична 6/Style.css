@@ -25,24 +25,24 @@ li{
 
 
   
-  p.fh{
+  .fh{
   
     background-color: yellow ;
     color:green;
   }
-  p.gh{
+  .gh{
     background-color:rgb(184, 255, 200); ;
     color:red;
   }   
-  p.kh{
+  .kh{
     background-color:rgb(151, 120, 221) ;
     color:whitesmoke;
   }
-  p.nh{
+  .nh{
     background-color:rgb(230, 160, 128); ;
     color:rgb(98, 0, 255);
   }
-  p.mh{
+  .mh{
     background-color: rgb(255, 220, 249);
     color: rgb(255, 102, 0);
   }
@@ -50,20 +50,20 @@ li{
     text-align: center;
     font-size: 22px;
   }
-  a.vh{
+  .vh{
     font-style: italic;
   }
-  h3.zmist{
+  .zmist{
        text-align: center;
   }
   
-  a.uh{
+  .uh{
     font-weight: bold;
   }
-  pa{
+ .pa{
     font-size: 120%;
   }
-  h3.ch{
+  .ch{
     font-size: 240%;
   }
 
@@ -90,7 +90,7 @@ text-align: center;
 .h2f{
 text-align: center;
 }
-a.jk{
+.jk{
 font-style: italic;
 }
 .bb{
@@ -137,15 +137,15 @@ color:red;
  .h2a{
     text-align: center;
  }
- h3.k{
+ .k{
     text-align: center;
     font-size: 70%;
  }
- h3.kb{
+ .kb{
    text-align: center;
    font-size: 130%;
  }
- h3.kc{
+ .kc{
     text-align: center;
     font-size: 169%;
  }
@@ -169,7 +169,6 @@ color:red;
 font-size: 24px; 
 text-align: center;
 }
-p.pa{font-size:120%;}
   
 
 
@@ -209,7 +208,7 @@ p.pa{font-size:120%;}
 
 
 
-/*/*/*/*/*/*/*/*/
+
 .row {
     width: 100%;
     }
