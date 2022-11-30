@@ -25,24 +25,24 @@ color: blue;
   
   p.fh{
   
-    background-color: darkblue ;
-    color:orange;
+    background-color: yellow ;
+    color:green;
   }
   p.gh{
-    background-color:darkcyan ;
-    color:beige;
+    background-color:rgb(184, 255, 200); ;
+    color:red;
   }   
   p.kh{
-    background-color:rgb(128, 199, 15) ;
-    color:rgb(160, 99, 240);
+    background-color:rgb(151, 120, 221) ;
+    color:whitesmoke;
   }
   p.nh{
-    background-color:rgb(28, 149, 248) ;
-    color:rgb(167, 243, 44);
+    background-color:rgb(230, 160, 128); ;
+    color:rgb(98, 0, 255);
   }
   p.mh{
-    background-color: rgb(219, 188, 188) ;
-    color: royalblue;
+    background-color: rgb(255, 220, 249);
+    color: rgb(255, 102, 0);
   }
   .h1h{
     text-align: center;
