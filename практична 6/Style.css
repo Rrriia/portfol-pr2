@@ -1,23 +1,29 @@
 li{
     list-style: none;
   }
-  a.as:link{
-    text-decoration: none;
-background-color: blue;
-color: white;
-border: 1px solid black;
-border-radius: 5px  }
 
-  a.as:hover,a.as:active
+  a.as:link, a.as:visited{
+    text-decoration:none;
+    background-color: blue;
+    border: 1px solid black;
+    color:white;
+    display:block;
+    width:250px;
+    text-align: center;
+    margin-bottom: 1px;
+    }
+
+  a.as:hover
   {
     background-color: magenta;
     color: black;
   }
-  a.as:visited{
-    background-color: blue;
-border: 1px solid black;
-color: rgb(255, 255, 255);
-  }
+  a.as:active{
+  background-color: yellow;
+  color:brown;
+}
+
+
   
   p.fh{
   
