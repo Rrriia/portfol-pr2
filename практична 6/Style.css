@@ -128,17 +128,17 @@ color:red;
     text-align: center;
     font-size: 20px; 
  }
- .Font{
+ .k{
     font-style: italic;
  }
  .h2a{
     text-align: center;
  }
- h3.Font{
+ h3.k{
     text-align: center;
     font-size: 70%;
  }
- h3.Fontb{
+ h3.kb{
    text-align: center;
    font-size: 130%;
  }
@@ -146,7 +146,7 @@ color:red;
     text-align: center;
     font-size: 160%;
  }
- .center-img{
+ .cimg{
     display: block;
     margin: 0 auto;
  }
