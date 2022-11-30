@@ -1,26 +1,22 @@
 li{
     list-style: none;
   }
-  a.ag:link{
+  a.as:link{
     text-decoration: none;
 background-color: blue;
 color: white;
 border: 1px solid black;
-border-radius: 5px
+border-radius: 5px  }
 
-
-  }
-  a.ag:hover,a.ag:active
+  a.as:hover,a.as:active
   {
     background-color: magenta;
+    color: black;
   }
-  a.ag:visited{
-    background-color: rgb(255, 255, 255);
+  a.as:visited{
+    background-color: blue;
 border: 1px solid black;
-color: blue;
-  }
-  a.ag:hover,a.ag:active{
-    background-color: magenta;
+color: rgb(255, 255, 255);
   }
   
   p.fh{
@@ -64,7 +60,11 @@ color: blue;
   h3.ch{
     font-size: 240%;
   }
-  /*Friends*/
+
+
+
+
+  
   table.an{
     border: 2px solid black;
   }
@@ -74,6 +74,9 @@ background-color: gray;
 tr:nth-last-child(4){
 background-color: gray;
 }
+th, td {
+    border-style: solid;
+    border-color: rgb(0, 0, 0);}
 .h1f{
 font-size: 22px;
 text-align: center;
@@ -86,13 +89,14 @@ font-style: italic;
 }
 .bb{
 text-align: center;
-background-color: green;
+background-color: rgb(27, 176, 27);
 font-weight: bold;
-color:yellow;
+color:red;
 }
-.na{
-text-align: right;
-}
+.z{text-align: right;}
+
+
+
 @media (min-width: 993px) {
     div th{
         font-size: 110%;
@@ -114,7 +118,12 @@ text-align: right;
                 font-size: 110%;
             }
             }
-  /*Gallery*/
+ 
+
+
+
+
+
   .h1a{
     text-align: center;
     font-size: 20px; 
@@ -141,7 +150,12 @@ text-align: right;
     display: block;
     margin: 0 auto;
  }
-  /*Index*/
+  
+
+
+
+
+
   .red:visited {
     color:green;
 }
@@ -175,7 +189,13 @@ text-align: center;
 p.p1a{
    font-size:120%;
 }
-  /*Novadays*/
+  
+
+
+
+
+
+
   .fa li:nth-child(odd){
     background-color: gray;
 }
@@ -203,7 +223,12 @@ p.p1a{
 .ab{
    font-style: italic;
 }
-/*Media*/
+
+
+
+
+
+/*/*/*/*/*/*/*/*/
 .row {
     width: 100%;
     }
