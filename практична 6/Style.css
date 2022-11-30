@@ -176,10 +176,10 @@ text-align: center;
 
 
 
-.ui li:nth-child(odd){
+ul.ui.li:nth-child(odd){
     background-color: gray;
 }
-.ui li:nth-child(even) {
+ul.ui li:nth-child(even) {
     background-color: white;
 } 
 .er li:nth-child(4){
