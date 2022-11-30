@@ -4,8 +4,8 @@ li{
   a.ag:link{
     text-decoration: none;
 background-color: blue;
-color: yellow;
-border: 2px solid black;
+color: white;
+border: 1px solid black;
 border-radius: 5px
 
 
@@ -15,8 +15,8 @@ border-radius: 5px
     background-color: magenta;
   }
   a.ag:visited{
-    background-color: yellow;
-border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+border: 1px solid black;
 color: blue;
   }
   a.ag:hover,a.ag:active{
@@ -183,7 +183,7 @@ p.p1a{
     background-color: white;
 } 
 .ga li:nth-child(4){
-    background-color: rgb(35, 201, 252);
+    background-color: rgb(184, 255, 200);
 }
 .ga li:nth-child(3){
     cursor: pointer;
