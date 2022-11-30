@@ -60,7 +60,7 @@ li{
   a.uh{
     font-weight: bold;
   }
-  p{
+  pa{
     font-size: 120%;
   }
   h3.ch{
@@ -95,7 +95,7 @@ font-style: italic;
 }
 .bb{
 text-align: center;
-background-color: rgb(27, 176, 27);
+background-color: rgb(141, 239, 141);
 font-weight: bold;
 color:red;
 }
