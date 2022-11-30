@@ -176,7 +176,7 @@ text-align: center;
 
 
 
-ul.ui.li:nth-child(odd){
+ul.ui li:nth-child(odd){
     background-color: gray;
 }
 ul.ui li:nth-child(even) {
