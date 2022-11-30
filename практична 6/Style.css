@@ -176,10 +176,10 @@ text-align: center;
 
 
 
-  .qw li:nth-child(odd){
+div li:nth-child(odd){
     background-color: gray;
 }
-.qw li:nth-child(even) {
+div li:nth-child(even) {
     background-color: white;
 } 
 .er li:nth-child(4){
