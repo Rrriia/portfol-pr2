@@ -153,42 +153,20 @@ color:red;
   
 
 
+ .msa{color:brown;}
+ .msa:visited{color: aquamarine;}
+ .x{color:red;}
+ .x:visited{color: blue;}
+ .c{color:orange;}
+ .c:visited{color:blueviolet;}
+ .vi{color:yellow;}
+ .vi:visited{color: olivedrab;}
 
-
-
-  .red:visited {
-    color:green;
-}
-.red{
-   color: red;
-}
-.aqua{
- color:aqua;
-}
-.aqua:visited{
-   color:red;
-}
-
-.green{
- color: green;
-}
-.green:visited{
-   color:aqua;
-}
-.yellow{
-    color:yellow
-}
-.yellow:visited{
-   color:green;
-}
-
-.h1v{
+.h1i{
 font-size: 24px; 
 text-align: center;
 }
-p.p1a{
-   font-size:120%;
-}
+p.pa{font-size:120%;}
   
 
 
