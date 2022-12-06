@@ -26,15 +26,19 @@
 
 }
 #content1{background-color: rgb(101, 217, 124);
+    width:250px;
     color: rgb(255, 128, 0);
     font-size: 120%;}
 #content2{background-color: rgb(125, 133, 255);
+    width:250px;
     color: rgb(255, 0, 0);
     font-size: 120%;}
 #content3{background-color: rgb(235, 136, 255);
+    width:250px;
     color: rgb(0, 255, 242);
     font-size: 120%;}
 #content4{background-color: rgb(255, 116, 121);
+    width:250px;
     color: rgb(255, 238, 0);
     font-size: 120%;}
     
