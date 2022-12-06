@@ -1,11 +1,32 @@
 *{box-sizing: border-box;}
-#box{
-    background-color: antiquewhite;
+#box1{
+    background-color: rgb(255, 200, 184);
     padding: 10px;
     margin: 20px;
     width: 300px;
 }
-#content{background-color: aquamarine;}
+#box2{
+    background-color: rgb(255, 219, 171);
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+}
+#box3{
+    background-color: rgb(225, 255, 156);
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+}
+#box4{
+    background-color: rgb(182, 254, 252);
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+}
+#content1{background-color: rgb(122, 255, 175);}
+#content2{background-color: rgb(125, 133, 255);}
+#content3{background-color: rgb(235, 136, 255);}
+#content4{background-color: rgb(255, 116, 121);}
     
 .s{font-weight: bold;}
 
